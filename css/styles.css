@@ -1,5 +1,10 @@
 .header {
 	text-align: center;
+	background-image: url("css/Images/header_photo");
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	color: white;
 }
 
 .navbar.link {
