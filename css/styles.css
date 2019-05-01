@@ -1,12 +1,14 @@
 .header {
-	text-align: center;
-	background-image: url("css/Images/header_photo");
-	background-size: cover;
-	background-position: center;
-	position: relative;
 	color: white;
 }
 
-.navbar.link {
-	justify-content: center;
+.head {
+	text-align: center;
+	background-image: url("Images/header1.gif");
+	background-size: contain;
+	/*background-repeat: no-repeat;*/
+}
+
+body {
+	background-color: rgb(44, 44, 45);
 }
