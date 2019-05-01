@@ -12,3 +12,9 @@
 body {
 	background-color: rgb(44, 44, 45);
 }
+
+.quote {
+	color: white;
+	text-align: center;
+	word-spacing: 10px;
+}
